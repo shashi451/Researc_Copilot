@@ -1,9 +1,7 @@
 # Researc_Copilot
 This project builds an automated Research Copilot using n8n. It fetches webpage content, extracts readable text, generates an AI summary, and sends the result via email.
+
 <img width="1500" height="406" alt="image" src="https://github.com/user-attachments/assets/4c4e1dfc-5ccd-40d9-8b97-9defa8074480" />
-
-Here is a clean, ready-to-paste README for your Git repo 👇
-
 
 ## 🚀 Workflow Overview
 
